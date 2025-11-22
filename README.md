@@ -10,7 +10,7 @@ Nova Financial Insights Challenge | November 2025
 ---
 
 ### Project Overview
-Complete **Task 1** deliverables for Week 1 of the Nova Financial Challenge.  
+Complete **Task 1**  deliverables for Week 1 of the Nova Financial Challenge.  
 Analysis performed on the **FNSPID dataset** – **1.4 million** financial news headlines (2011–2020).
 
 **Goal**: Data quality assessment, publication patterns, publisher behavior, and textual insights to prepare for sentiment–price correlation.
